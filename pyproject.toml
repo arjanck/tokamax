@@ -24,7 +24,6 @@ dependencies = [
     # in tokamax/.github/ci/shards.py.
     "jax>=0.11.0",
     "jaxlib>=0.11.0",
-    "flax @ git+https://github.com/google/flax.git@d1f0d69b49a4f208e0a854039d7914c1c7c431e3",
     "jaxtyping>=0.3",
     "pydantic>=2.11.0",
     "qwix>=0.1.2",
